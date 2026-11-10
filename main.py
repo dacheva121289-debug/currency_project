@@ -16,6 +16,7 @@ CURRENCIES = {
     "CNY": "Китайский юань",
     "KZT": "Казахстанский тенге",
     "JPY": "Японская иена",
+    "CHF": "Швейцарский франк",
 }
 
 API_URL = "https://open.er-api.com/v6/latest/{}"
